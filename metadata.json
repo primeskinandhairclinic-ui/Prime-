@@ -1,0 +1,6 @@
+{
+  "name": "Prime Skin & Hair Clinic",
+  "description": "Comprehensive dermatology clinic portal for Prime Skin & Hair Clinic with online appointment scheduling, patient portal, physician profiles, automated email reminders, and administrative CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
